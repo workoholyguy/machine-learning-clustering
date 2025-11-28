@@ -54,3 +54,6 @@ This repository collects the end-to-end work for the CSC 6850 individual project
 1. Extend the neural workflows with learning-rate schedules or momentum to mimic more advanced training regimes.  
 2. Benchmark the NumPy implementations against scikit-learn counterparts to highlight performance trade-offs.  
 3. Package the pipelines for reuse or integrate them into a lightweight CLI for automated scoring.
+
+## Detailed Report  
+Read the accompanying project report for a narrative walk-through and analysis artifacts: https://docs.google.com/document/d/1UdppvCVAW6rbBQNalArVim3R9OWPLqfuZF5CJCkNacg/edit?usp=sharing
